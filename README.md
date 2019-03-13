@@ -1,4 +1,7 @@
-# new-cli-project
+# vue-router-project
+
+## Movie url
+https://www.youtube.com/watch?v=aeczJLcr8xc&list=PLZzSdj89sCN0IRcwT4lJWg_qgfBFmcF6A
 
 ## Project setup
 ```
@@ -14,3 +17,16 @@ npm run serve
 ```
 npm run build
 ```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
